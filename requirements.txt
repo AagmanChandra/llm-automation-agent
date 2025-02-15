@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+openai
+pydantic
+aiofiles
+# sqlite3
+pandas
+numpy
+pytesseract
+pillow
+sentence_transformers
+numpy
+pytesseract
+# PIL
+python-dotenv
+openai
+aiofiles
+fastapi
